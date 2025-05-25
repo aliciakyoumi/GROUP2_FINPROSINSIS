@@ -2,6 +2,7 @@ import streamlit as st
 #halo
 #testinginiraisa
 #haloooooiniraisalagi
+#ini gathaaaaaa
 
 st.title("Sinyal dan Sistem Biomedik")
 
